@@ -27,7 +27,8 @@ cd stokmobil_crud_web
 ### 4. generate key
 ```php artisan key:generate```
 ### 5. Setting database di file .env
-```DB_DATABASE=stokmobil_crud_web
+```
+DB_DATABASE=stokmobil_crud_web
 DB_USERNAME=root
 DB_PASSWORD=
 ```
