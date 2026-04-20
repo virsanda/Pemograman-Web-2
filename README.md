@@ -21,8 +21,7 @@ git clone https://github.com/virsanda/Pemograman-Web-2
 cd stokmobil_crud_web
 ```
 ### 2. Install Dependency
-```composer create-project laravel/laravel:^12.0
-```
+```composer create-project laravel/laravel:^12.0```
 ### 3. Konfigurasi environment
 ```cp .env.example .env
 ```
