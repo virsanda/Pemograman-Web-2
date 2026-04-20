@@ -22,10 +22,8 @@ cd stokmobil_crud_web
 ```
 2. Install Dependency
 ```composer create-project laravel/laravel:^12.0
-```
 3. Konfigurasi environment
 ```cp .env.example .env
-```
 4. generate key
 php artisan key:generate
 5. Setting database di file .env
