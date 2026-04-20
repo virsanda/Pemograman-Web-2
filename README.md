@@ -13,11 +13,13 @@ Aplikasi sederhana CRUD (Create, Read, Update, Delete) data mobil menggunakan La
 - PHP 
 - MySQL
 
-  ## Cara Install
-1. Clone repository:
+##  Cara Install
+
+### 1. Clone Repository
+```bash
 git clone https://github.com/virsanda/Pemograman-Web-2
 cd stokmobil_crud_web
-2. Install dependency
+2. Install Dependency
 composer create-project laravel/laravel:^12.0
 3. Konfigurasi environment
 cp .env.example .env
