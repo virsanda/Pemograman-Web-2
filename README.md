@@ -47,7 +47,7 @@ Project ini dibuat untuk memenuhi tugas project pemrograman web 2
  nim  : 240180040
 
  
-  ![Uploading HaalandErlingHaalandGIF.gif…]()
+  
 
 
   
