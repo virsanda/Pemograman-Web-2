@@ -15,8 +15,7 @@ Aplikasi sederhana CRUD (Create, Read, Update, Delete) data mobil menggunakan La
 
   ## Cara Install
 1. Clone repository:
-   ```bash
-git clone https://github.com/virsanda/Pemograman-Web-2
+   ```bash git clone https://github.com/virsanda/Pemograman-Web-2
 cd stokmobil_crud_web
 
 2. Install dependency
